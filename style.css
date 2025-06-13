@@ -1,7 +1,9 @@
 body{
-  .imagem 
-    background-color: red;
+  
+    background-color: red(0, 132, 255);
 }
 h1{
     color: blueviolet;
+font-weight: 200;
+font-style: oblique;
 }
